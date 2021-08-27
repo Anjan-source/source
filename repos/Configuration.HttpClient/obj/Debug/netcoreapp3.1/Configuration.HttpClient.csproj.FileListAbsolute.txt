@@ -1,0 +1,4 @@
+C:\Users\anaddepalli\source\repos\Configuration.HttpClient\bin\Debug\netcoreapp3.1\Configuration.HttpClient.deps.json
+C:\Users\anaddepalli\source\repos\Configuration.HttpClient\bin\Debug\netcoreapp3.1\Configuration.HttpClient.dll
+C:\Users\anaddepalli\source\repos\Configuration.HttpClient\obj\Debug\netcoreapp3.1\Configuration.HttpClient.AssemblyInfoInputs.cache
+C:\Users\anaddepalli\source\repos\Configuration.HttpClient\obj\Debug\netcoreapp3.1\Configuration.HttpClient.AssemblyInfo.cs
